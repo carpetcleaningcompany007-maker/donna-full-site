@@ -79,3 +79,23 @@ section{padding:34px 0}
 ul.clean{margin:0;padding-left:18px;color:var(--muted)}
 @media (max-width:1050px){.hero .wrap,.trust-strip,.services-grid,.reviews-grid,.news-grid,.footer-grid,.cards3,.cards2,.contact-grid,.gallery-grid,.small-grid{grid-template-columns:1fr}.cta-wrap{flex-direction:column;align-items:flex-start}}
 @media (max-width:760px){.menu{display:none}.hero .wrap{min-height:auto;padding:28px 0}.hero-copy,.form-card,.card,.quote,.footer-card,.contact-card,.info-card,.service-copy,.cta-band{padding:22px}.hero-actions{flex-direction:column}.button{width:100%}.section-head{display:block}.section-head p{margin-top:10px}}
+
+
+.brand-logo{
+  width:190px;
+  height:auto;
+  display:block;
+}
+.brand-mark{display:none}
+.brand-text{display:block}
+.brand small{display:block;color:var(--muted)}
+.footer-logo{
+  width:220px;
+  height:auto;
+  display:block;
+  margin-bottom:14px;
+}
+@media (max-width:760px){
+  .brand-logo{width:150px}
+  .footer-logo{width:180px}
+}
