@@ -1,1 +1,1 @@
-This is an original multi-page site with your own branding and contact details. It is inspired by the structure of strong local cleaning company websites but is not a clone of any specific business.
+Clean HTML rebuild for Donna's cleaning business based on the supplied site content and structure. Replace placeholder policy links or add more pages if needed.
