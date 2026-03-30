@@ -1,1 +1,1 @@
-Clean editable rebuild for D's Professional Cleaning based on the current live site structure and the pages I could verify. Review and refine wording before publishing.
+V2 rebuild with more pages, more public site details, more images, gallery, review-us page, and working footer policy pages. The exact logo image was not available from the public parsed page, so this uses a styled text mark instead.
