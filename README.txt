@@ -1,1 +1,23 @@
-V2 rebuild with more pages, more public site details, more images, gallery, review-us page, and working footer policy pages. The exact logo image was not available from the public parsed page, so this uses a styled text mark instead.
+Full Shrewsbury SEO static site system for DS Professional Cleaning.
+
+Included:
+- Homepage
+- About page
+- Contact page
+- Services index
+- Area pages index
+- 6 dedicated service pages
+- 42 dedicated area pages around Shrewsbury
+- 3 blog/supporting content pages
+- Internal linking between service pages, area pages and blog pages
+- Decent pictures using web-hosted image URLs
+- Ready for GitHub Pages or any static hosting
+
+Main files:
+- index.html
+- services.html
+- shrewsbury-areas.html
+- contact.html
+- /services/
+- /locations/
+- /blog/
