@@ -1,1 +1,1 @@
-Clean HTML rebuild for Donna's cleaning business based on the supplied site content and structure. Replace placeholder policy links or add more pages if needed.
+Clean editable rebuild for D's Professional Cleaning based on the current live site structure and the pages I could verify. Review and refine wording before publishing.
